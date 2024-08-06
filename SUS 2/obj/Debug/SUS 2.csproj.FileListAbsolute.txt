@@ -1,0 +1,74 @@
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS 2.csprojAssemblyReference.cache
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS_2.Form1.resources
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS_2.Properties.Resources.resources
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS 2.csproj.GenerateResource.cache
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS 2.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS 2.csprojAssemblyReference.cache
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS_2.Form1.resources
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS_2.Properties.Resources.resources
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS 2.csproj.GenerateResource.cache
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS 2.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\SUS 2.exe.config
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\SUS 2.exe
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\SUS 2.pdb
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\BouncyCastle.Crypto.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\Google.Protobuf.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\K4os.Compression.LZ4.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\K4os.Hash.xxHash.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\MySql.Data.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Buffers.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Memory.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Numerics.Vectors.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\Ubiety.Dns.Core.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\ZstdNet.dll
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\BouncyCastle.Crypto.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\Google.Protobuf.pdb
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\Google.Protobuf.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\K4os.Compression.LZ4.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\K4os.Hash.xxHash.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\MySql.Data.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Buffers.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Memory.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Numerics.Vectors.xml
+E:\Desenvolvimento de sistema\SUS 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS 2.csproj.CopyComplete
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS 2.exe
+E:\Desenvolvimento de sistema\SUS 2\obj\Debug\SUS 2.pdb
+Z:\DS 2B\kaue\SUS 2\bin\Debug\SUS 2.exe.config
+Z:\DS 2B\kaue\SUS 2\bin\Debug\SUS 2.exe
+Z:\DS 2B\kaue\SUS 2\bin\Debug\SUS 2.pdb
+Z:\DS 2B\kaue\SUS 2\bin\Debug\BouncyCastle.Crypto.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\Google.Protobuf.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\K4os.Compression.LZ4.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\K4os.Hash.xxHash.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\MySql.Data.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Buffers.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Memory.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Numerics.Vectors.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\Ubiety.Dns.Core.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\ZstdNet.dll
+Z:\DS 2B\kaue\SUS 2\bin\Debug\BouncyCastle.Crypto.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\Google.Protobuf.pdb
+Z:\DS 2B\kaue\SUS 2\bin\Debug\Google.Protobuf.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\K4os.Compression.LZ4.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\K4os.Hash.xxHash.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\MySql.Data.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Buffers.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Memory.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Numerics.Vectors.xml
+Z:\DS 2B\kaue\SUS 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS 2.csprojAssemblyReference.cache
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS_2.Form1.resources
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS_2.Properties.Resources.resources
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS 2.csproj.GenerateResource.cache
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS 2.csproj.CoreCompileInputs.cache
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS 2.csproj.CopyComplete
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS 2.exe
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS 2.pdb
+Z:\DS 2B\kaue\SUS 2\obj\Debug\SUS_2.lbletetreirofoda.resources

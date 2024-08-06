@@ -1,0 +1,5 @@
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS 2.csprojAssemblyReference.cache
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS_2.Form1.resources
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS_2.Properties.Resources.resources
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS 2.csproj.GenerateResource.cache
+E:\Desenvolvimento de sistema\SUS 2\SUS 2\obj\Debug\SUS 2.csproj.CoreCompileInputs.cache
